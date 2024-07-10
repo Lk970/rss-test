@@ -1,0 +1,58 @@
+<rss version="2.0">
+  <channel>
+    <title>Événements en Occitanie</title>
+    <link>https://votre-site.com/rss</link>
+    <description>Flux RSS des événements en Occitanie</description>
+    <language>fr-fr</language>
+    
+    <item>
+      <title>Stand Palestine: Liberté pour Georges Abdallah</title>
+      <link>https://palestinevaincra.com/2021/03/02-avril-stand-palestine-liberte-pour-georges-abdallah/</link>
+      <description>Stand Palestine: Liberté pour Georges Abdallah à Toulouse...</description>
+      <pubDate>2021-04-02</pubDate>
+      <category>Occitanie</category>
+      <enclosure url="local/cache-vignettes/L262xH200/arton4699-39191.jpg?1719985574" type="image/jpeg"/>
+      <geo:lat>43.596037953</geo:lat>
+      <geo:long>1.432094901</geo:long>
+    </item>
+
+    <item>
+      <title>Rencontre communisme libertaire avec "La Conquête du pain" de Kropotkine</title>
+      <link>https://iaata.info/13-janvier-Rencontre-communisme-libertaire-avec-La-Conquete-du-pain-de-5645.html</link>
+      <description><![CDATA[
+        13 janvier : Rencontre communisme libertaire avec "La Conquête du pain" de Kropotkine - Cercle critique de la valeur-dissociation Occitanie...
+      ]]></description>
+      <pubDate>2023-01-13</pubDate>
+      <category>Occitanie</category>
+      <enclosure url="local/cache-vignettes/L138xH200/arton5645-44f0d.jpg?1709973870" type="image/jpeg"/>
+      <geo:lat>43.596037953</geo:lat>
+      <geo:long>1.432094901</geo:long>
+    </item>
+
+    <item>
+      <title>Marches pour la forêt pyrénéenne. Non au projet de méga-scierie à Lannemezan.</title>
+      <link>https://iaata.info/10-octobre-Marche-a-Aspet-pour-la-foret.html</link>
+      <description><![CDATA[
+        Fil d’info Marches pour la forêt pyrénéenne. Non au projet de méga-scierie à Lannemezan...
+      ]]></description>
+      <pubDate>2020-10-10</pubDate>
+      <category>Occitanie</category>
+      <enclosure url="local/cache-vignettes/L142xH200/arton4433-b88d4.jpg?1717071757" type="image/jpeg"/>
+      <geo:lat>43.117101211</geo:lat>
+      <geo:long>0.393468009</geo:long>
+    </item>
+
+    <item>
+      <title>Stand Palestine: Liberté pour les étudiant·e·s palestinien·ne·s!</title>
+      <link>https://iaata.info/13-Mars-Stand-Palestine-Liberte-pour-les-etudiant-e-s-palestinien-ne-s-4672.html</link>
+      <description><![CDATA[
+        Fil d’info 13 Mars : Stand Palestine « Liberté pour les étudiant·e·s palestinien·ne·s ! »...
+      ]]></description>
+      <pubDate>2021-03-13</pubDate>
+      <category>Occitanie</category>
+      <geo:lat>43.596037953</geo:lat>
+      <geo:long>1.432094901</geo:long>
+    </item>
+  </channel>
+</rss>
+
