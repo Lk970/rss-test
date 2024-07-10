@@ -12,8 +12,6 @@
       <pubDate>2021-04-02</pubDate>
       <category>Occitanie</category>
       <enclosure url="local/cache-vignettes/L262xH200/arton4699-39191.jpg?1719985574" type="image/jpeg"/>
-      <geo:lat>43.596037953</geo:lat>
-      <geo:long>1.432094901</geo:long>
     </item>
 
     <item>
@@ -25,8 +23,6 @@
       <pubDate>2023-01-13</pubDate>
       <category>Occitanie</category>
       <enclosure url="local/cache-vignettes/L138xH200/arton5645-44f0d.jpg?1709973870" type="image/jpeg"/>
-      <geo:lat>43.596037953</geo:lat>
-      <geo:long>1.432094901</geo:long>
     </item>
 
     <item>
@@ -38,8 +34,6 @@
       <pubDate>2020-10-10</pubDate>
       <category>Occitanie</category>
       <enclosure url="local/cache-vignettes/L142xH200/arton4433-b88d4.jpg?1717071757" type="image/jpeg"/>
-      <geo:lat>43.117101211</geo:lat>
-      <geo:long>0.393468009</geo:long>
     </item>
 
     <item>
@@ -50,8 +44,6 @@
       ]]></description>
       <pubDate>2021-03-13</pubDate>
       <category>Occitanie</category>
-      <geo:lat>43.596037953</geo:lat>
-      <geo:long>1.432094901</geo:long>
     </item>
   </channel>
 </rss>
